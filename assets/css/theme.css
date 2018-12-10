@@ -803,7 +803,7 @@ textarea {
 .logo a:hover {color: #dc143c;}
 .logo a .logo-hex {background-color: #dc143c;}
 .logo a:hover .logo-hex {background-color: #ffffff;}
-.logo a .logo-fa {color: #ffffff;}
+.logo a .logo-fa {color: black;}
 .logo a:hover .logo-fa {color: #dc143c;}
 .logo .fa-stack {width: 54px; height: 62px; line-height: 62px;}
 
